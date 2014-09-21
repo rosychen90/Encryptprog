@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\bin\Debug\permulation.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\bin\Debug\permulation.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\obj\Debug\permulation.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\obj\Debug\permulation.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\permulation\bin\Debug\permulation.dll
+D:\Users\crx\Documents\文稿\Encryptprog\permulation\bin\Debug\permulation.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\permulation\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\permulation\obj\Debug\permulation.dll
+D:\Users\crx\Documents\文稿\Encryptprog\permulation\obj\Debug\permulation.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\permulation\bin\Debug\permulation.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\permulation\bin\Debug\permulation.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\permulation\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\permulation\obj\Debug\permulation.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\permulation\obj\Debug\permulation.pdb

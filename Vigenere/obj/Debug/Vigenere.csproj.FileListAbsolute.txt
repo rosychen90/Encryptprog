@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Vigenere\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Vigenere\bin\Debug\Vigenere.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Vigenere\bin\Debug\Vigenere.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Vigenere\obj\Debug\Vigenere.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Vigenere\obj\Debug\Vigenere.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\Vigenere\bin\Debug\Vigenere.dll
+D:\Users\crx\Documents\文稿\Encryptprog\Vigenere\bin\Debug\Vigenere.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\Vigenere\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\Vigenere\obj\Debug\Vigenere.dll
+D:\Users\crx\Documents\文稿\Encryptprog\Vigenere\obj\Debug\Vigenere.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\Vigenere\bin\Debug\Vigenere.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\Vigenere\bin\Debug\Vigenere.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\Vigenere\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\Vigenere\obj\Debug\Vigenere.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\Vigenere\obj\Debug\Vigenere.pdb

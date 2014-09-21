@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D55CA29C-DF43-4F25-8925-AE932841FCC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Encryptprog</RootNamespace>
+    <AssemblyName>Encryptprog</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="单机加密.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="单机加密.Designer.cs">
+      <DependentUpon>单机加密.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="单机加密.resx">
+      <DependentUpon>单机加密.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Autokey\Autokey.csproj">
+      <Project>{90297214-1A92-43ED-A9EA-706444DA9D8F}</Project>
+      <Name>Autokey</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Caecar\Caecar.csproj">
+      <Project>{D2D87FC3-2838-4FB0-9084-E28F836B715F}</Project>
+      <Name>Caecar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CA\CA.csproj">
+      <Project>{03DD9CB8-E044-4BAA-98A6-DA33C5006FC7}</Project>
+      <Name>CA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Column\Column.csproj">
+      <Project>{788B4B3F-7E2F-4297-907C-999CAB2A9485}</Project>
+      <Name>Column</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DES\DES.csproj">
+      <Project>{D0C16030-C76D-4A97-AFBB-015485B17516}</Project>
+      <Name>DES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Keyword\Keyword.csproj">
+      <Project>{C74AC8F3-4521-4737-A9B4-747F3E235AB3}</Project>
+      <Name>Keyword</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\permulation\permutation.csproj">
+      <Project>{D73099F1-E871-409D-BA01-7310E704816D}</Project>
+      <Name>permutation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\playfair\playfair.csproj">
+      <Project>{6DF72218-385F-49B2-8640-68ED54E87339}</Project>
+      <Name>playfair</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RSA\RSA.csproj">
+      <Project>{98B1CAD2-97A6-4B37-956B-B73C6E0AC619}</Project>
+      <Name>RSA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vigenere\Vigenere.csproj">
+      <Project>{92D7856F-3B50-4A88-921B-625A14083A03}</Project>
+      <Name>Vigenere</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\playfair\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\playfair\bin\Debug\playfair.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\playfair\bin\Debug\playfair.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\playfair\obj\Debug\playfair.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\playfair\obj\Debug\playfair.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\playfair\bin\Debug\playfair.dll
+D:\Users\crx\Documents\文稿\Encryptprog\playfair\bin\Debug\playfair.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\playfair\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\playfair\obj\Debug\playfair.dll
+D:\Users\crx\Documents\文稿\Encryptprog\playfair\obj\Debug\playfair.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\playfair\bin\Debug\playfair.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\playfair\bin\Debug\playfair.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\playfair\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\playfair\obj\Debug\playfair.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\playfair\obj\Debug\playfair.pdb

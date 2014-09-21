@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\DES\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\DES\bin\Debug\DES.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\DES\bin\Debug\DES.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\DES\obj\Debug\DES.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\DES\obj\Debug\DES.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\DES\bin\Debug\DES.dll
+D:\Users\crx\Documents\文稿\Encryptprog\DES\bin\Debug\DES.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\DES\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\DES\obj\Debug\DES.dll
+D:\Users\crx\Documents\文稿\Encryptprog\DES\obj\Debug\DES.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\DES\bin\Debug\DES.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\DES\bin\Debug\DES.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\DES\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\DES\obj\Debug\DES.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\DES\obj\Debug\DES.pdb

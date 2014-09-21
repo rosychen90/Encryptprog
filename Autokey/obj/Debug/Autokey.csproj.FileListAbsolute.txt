@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Autokey\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Autokey\bin\Debug\Autokey.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Autokey\bin\Debug\Autokey.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Autokey\obj\Debug\Autokey.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Autokey\obj\Debug\Autokey.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\Autokey\bin\Debug\Autokey.dll
+D:\Users\crx\Documents\文稿\Encryptprog\Autokey\bin\Debug\Autokey.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\Autokey\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\Autokey\obj\Debug\Autokey.dll
+D:\Users\crx\Documents\文稿\Encryptprog\Autokey\obj\Debug\Autokey.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\Autokey\bin\Debug\Autokey.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\Autokey\bin\Debug\Autokey.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\Autokey\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\Autokey\obj\Debug\Autokey.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\Autokey\obj\Debug\Autokey.pdb

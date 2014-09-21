@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Encryptprog">
+</Property><Property Name="Solution File" Value="D:\Users\crx\Documents\文稿\Encryptprog\Encryptprog.sln">
+</Property><Property Name="User Options File" Value="D:\Users\crx\Documents\文稿\Encryptprog\Encryptprog.suo">
+</Property><Property Name="Date" Value="2012年10月25日">
+</Property><Property Name="Time" Value="13:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Encryptprog.sln" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Encryptprog.suo" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog.suo">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Encryptprog.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Encryptprog.csproj">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\单机加密.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\单机加密.cs">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\单机加密.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\单机加密.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Program.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Program.cs">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Properties\Settings.settings" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\单机加密.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\单机加密.resx">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Properties\Resources.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Encryptprog\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Encryptprog.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Encryptprog" Source="Encryptprog\Encryptprog.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Caecar" Source="Caecar\Caecar.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Caecar\Caecar.csproj">
+</Event><Event ErrorLevel="0" Project="Caecar" Source="Caecar\Caecar.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Caecar\Caecar.cs">
+</Event><Event ErrorLevel="0" Project="Caecar" Source="Caecar\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Caecar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Caecar" Source="Caecar\Caecar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Caecar" Source="Caecar\Caecar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Keyword" Source="Keyword\Keyword.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Keyword\Keyword.csproj">
+</Event><Event ErrorLevel="0" Project="Keyword" Source="Keyword\Keyword.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Keyword\Keyword.cs">
+</Event><Event ErrorLevel="0" Project="Keyword" Source="Keyword\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Keyword\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Keyword" Source="Keyword\Keyword.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Keyword" Source="Keyword\Keyword.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DES" Source="DES\DES.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\DES\DES.csproj">
+</Event><Event ErrorLevel="0" Project="DES" Source="DES\DES.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\DES\DES.cs">
+</Event><Event ErrorLevel="0" Project="DES" Source="DES\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\DES\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DES" Source="DES\DES.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DES" Source="DES\DES.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA\RSA.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\RSA\RSA.csproj">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA\RSA.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\RSA\RSA.cs">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\RSA\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA\RSA.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RSA" Source="RSA\RSA.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="permutation" Source="permulation\permutation.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\permulation\permutation.csproj">
+</Event><Event ErrorLevel="0" Project="permutation" Source="permulation\permutation.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\permulation\permutation.cs">
+</Event><Event ErrorLevel="0" Project="permutation" Source="permulation\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\permulation\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="permutation" Source="permulation\permutation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="permutation" Source="permulation\permutation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Autokey" Source="Autokey\Autokey.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Autokey\Autokey.csproj">
+</Event><Event ErrorLevel="0" Project="Autokey" Source="Autokey\Autokey.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Autokey\Autokey.cs">
+</Event><Event ErrorLevel="0" Project="Autokey" Source="Autokey\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Autokey\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Autokey" Source="Autokey\Autokey.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Autokey" Source="Autokey\Autokey.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Vigenere" Source="Vigenere\Vigenere.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Vigenere\Vigenere.csproj">
+</Event><Event ErrorLevel="0" Project="Vigenere" Source="Vigenere\Vigenere.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Vigenere\Vigenere.cs">
+</Event><Event ErrorLevel="0" Project="Vigenere" Source="Vigenere\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Vigenere\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Vigenere" Source="Vigenere\Vigenere.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Vigenere" Source="Vigenere\Vigenere.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="playfair" Source="playfair\playfair.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\playfair\playfair.csproj">
+</Event><Event ErrorLevel="0" Project="playfair" Source="playfair\playfair.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\playfair\playfair.cs">
+</Event><Event ErrorLevel="0" Project="playfair" Source="playfair\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\playfair\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="playfair" Source="playfair\playfair.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="playfair" Source="playfair\playfair.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CA" Source="CA\CA.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\CA\CA.csproj">
+</Event><Event ErrorLevel="0" Project="CA" Source="CA\CA.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\CA\CA.cs">
+</Event><Event ErrorLevel="0" Project="CA" Source="CA\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\CA\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CA" Source="CA\CA.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CA" Source="CA\CA.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\bioEncrypt.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\bioEncrypt.csproj">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\client.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\client.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\client.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\client.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\DHreceive.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\DHreceive.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\DHreceive.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\DHreceive.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\DHsent.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\DHsent.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\DHsent.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\DHsent.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\双机加密.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\双机加密.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\双机加密.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\双机加密.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\Program.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\Program.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\server.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\server.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\server.Designer.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\server.Designer.cs">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\Properties\Settings.settings" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\client.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\client.resx">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\DHreceive.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\DHreceive.resx">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\DHsent.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\DHsent.resx">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\双机加密.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\双机加密.resx">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\Properties\Resources.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\server.resx" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\bioEncrypt\server.resx">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\bioEncrypt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="bioEncrypt" Source="bioEncrypt\bioEncrypt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Column" Source="Column\Column.csproj" Description="Project file successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Column\Column.csproj">
+</Event><Event ErrorLevel="0" Project="Column" Source="Column\Column.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Column\Column.cs">
+</Event><Event ErrorLevel="0" Project="Column" Source="Column\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Users\crx\Documents\文稿\Encryptprog\Backup\Column\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Column" Source="Column\Column.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Column" Source="Column\Column.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Encryptprog.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Encryptprog.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Encryptprog" Source="Encryptprog\Encryptprog.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Caecar" Source="Caecar\Caecar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Keyword" Source="Keyword\Keyword.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DES" Source="DES\DES.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA\RSA.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="permutation" Source="permulation\permutation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Autokey" Source="Autokey\Autokey.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Vigenere" Source="Vigenere\Vigenere.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="playfair" Source="playfair\playfair.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CA" Source="CA\CA.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="bioEncrypt" Source="bioEncrypt\bioEncrypt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Column" Source="Column\Column.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

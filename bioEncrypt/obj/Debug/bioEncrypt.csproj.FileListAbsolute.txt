@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\bin\Debug\bioEncrypt.exe
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\bin\Debug\bioEncrypt.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.exe
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\server.server.resources
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\bin\Debug\Class.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\Client.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\DH.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\obj\Debug\DHcli.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Encryptprog\bioEncrypt\bin\Debug\Class.dll
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\bin\Debug\bioEncrypt.exe
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\bin\Debug\bioEncrypt.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\bin\Debug\Class.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\Client.Form1.resources
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\DHcli.Form1.resources
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\DH.Form1.resources
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.双机加密.resources
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.Properties.Resources.resources
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\server.server.resources
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.exe
+D:\Users\crx\Documents\文稿\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\bin\Debug\bioEncrypt.exe
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\bin\Debug\bioEncrypt.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\bin\Debug\Class.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\Client.Form1.resources
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\DHcli.Form1.resources
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\DH.Form1.resources
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.双机加密.resources
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.Properties.Resources.resources
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\server.server.resources
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.exe
+D:\Users\crx\Documents\实验报告\Encryptprog\bioEncrypt\obj\Debug\bioEncrypt.pdb

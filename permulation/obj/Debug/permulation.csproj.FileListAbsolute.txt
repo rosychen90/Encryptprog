@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\bin\Debug\permulation.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\bin\Debug\permulation.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\obj\Debug\permulation.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\permulation\obj\Debug\permulation.pdb

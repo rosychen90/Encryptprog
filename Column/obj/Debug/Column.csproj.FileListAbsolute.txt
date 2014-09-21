@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Column\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Column\bin\Debug\Column.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Column\bin\Debug\Column.pdb
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Column\obj\Debug\Column.dll
+C:\Documents and Settings\Administrator\桌面\Encryptprog\Column\obj\Debug\Column.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\Column\bin\Debug\Column.dll
+D:\Users\crx\Documents\文稿\Encryptprog\Column\bin\Debug\Column.pdb
+D:\Users\crx\Documents\文稿\Encryptprog\Column\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\文稿\Encryptprog\Column\obj\Debug\Column.dll
+D:\Users\crx\Documents\文稿\Encryptprog\Column\obj\Debug\Column.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\Column\bin\Debug\Column.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\Column\bin\Debug\Column.pdb
+D:\Users\crx\Documents\实验报告\Encryptprog\Column\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\实验报告\Encryptprog\Column\obj\Debug\Column.dll
+D:\Users\crx\Documents\实验报告\Encryptprog\Column\obj\Debug\Column.pdb
